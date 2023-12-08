@@ -1,0 +1,91 @@
+[ {
+  "baseItem" : {
+    "id" : "_02aLEOZtEe2wD9fXqECBWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-MAd8OZsEe2wD9fXqECBWQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_SavEQOZxEe2wD9fXqECBWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ - dimension_fournisseur",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZO6t0OZxEe2wD9fXqECBWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_-MAd8OZsEe2wD9fXqECBWQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ - dimension_produit",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__JW8MOZaEe2wD9fXqECBWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ - dimension_temps",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_iaUtcOZxEe2wD9fXqECBWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ - dimension_pays",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ovL9wOZxEe2wD9fXqECBWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GtoCEOZfEe2wD9fXqECBWQ - table_faits_commandes",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

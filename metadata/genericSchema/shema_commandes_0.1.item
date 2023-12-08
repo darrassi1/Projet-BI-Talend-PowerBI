@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_-MC6MOZsEe2wD9fXqECBWQ" comment="connectionComment" label="connectionLabel" dataPackage="_-MC6MeZsEe2wD9fXqECBWQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_-MC6MeZsEe2wD9fXqECBWQ" dataManager="_-MC6MOZsEe2wD9fXqECBWQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_-MC6MuZsEe2wD9fXqECBWQ" id="_0-mogOkEEe2Ya6aWMHUQLA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6M-ZsEe2wD9fXqECBWQ" name="id" id="465" label="id" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6NOZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6NeZsEe2wD9fXqECBWQ" name="NomFournisseur" id="466" label="NomFournisseur" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6NuZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6N-ZsEe2wD9fXqECBWQ" name="AddressFournisseur" id="467" label="AddressFournisseur" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6OOZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6OeZsEe2wD9fXqECBWQ" name="idPays" id="468" label="idPays" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6OuZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6O-ZsEe2wD9fXqECBWQ" name="idPaysLivraison" id="469" label="idPaysLivraison" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6POZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6PeZsEe2wD9fXqECBWQ" name="DateLivraison" id="470" label="DateLivraison" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6PuZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6P-ZsEe2wD9fXqECBWQ" name="TempsLivraison" id="471" label="TempsLivraison" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6QOZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6QeZsEe2wD9fXqECBWQ" name="Qte" id="472" label="Qte" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6QuZsEe2wD9fXqECBWQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-MC6Q-ZsEe2wD9fXqECBWQ" name="PrixCommande" id="473" label="PrixCommande" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_-MC6ROZsEe2wD9fXqECBWQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
